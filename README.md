@@ -74,7 +74,7 @@ Improving the retention rate by 10% within mature cohorts would recover approxim
 
 `report/` | Final insights report (PDF) 
 
-`powerbi/` | Power BI dashboard file 
+`power-bi/` | Power BI dashboard file 
 
 **Skills Used** 
 
